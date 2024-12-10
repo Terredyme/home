@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 header {
-    background: #333;
+    background: #FF4433;
     color: #fff;
     padding: 10px 20px;
     text-align: center;
@@ -19,7 +19,7 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: center;
-    background: #444;
+    background: #000000;
 }
 
 nav ul li {
@@ -44,7 +44,7 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 footer {
-    background: #333;
+    background: #FF4433;
     color: #fff;
     text-align: center;
     padding: 10px 0;
